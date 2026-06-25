@@ -1,2 +1,2 @@
-# movie-reccomender-system
-This is a movie reccomender system model along with its complete deployment
+# movie-recommender-system
+This is a movie recommender system model along with its complete deployment
